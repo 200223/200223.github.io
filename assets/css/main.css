@@ -20,6 +20,8 @@
 
 	article, aside, details, figcaption, figure, footer, header, hgroup, menu, nav, section {
 		display: block;
+		color: #CFECF0;
+
 	}
 
 	body {
