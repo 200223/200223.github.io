@@ -1664,7 +1664,10 @@
 		text-align: center;
 	}
 
-		
+		#banner header {
+			background-color: #CCE8F4;
+			background-color: rgba(34, 30, 31, 0.98);
+		}
 
 			#banner header h2 {
 				color: #fff;
