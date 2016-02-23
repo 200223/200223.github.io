@@ -24,7 +24,9 @@
 
 	}
 
-	
+	body {
+		line-height: 1;
+	}
 
 	ol, ul {
 		list-style: none;
@@ -406,7 +408,7 @@
 	}
 
 	.\-4u {
-		margin-left: 33.33333%;
+		margin-left: 100%;
 	}
 
 	.\-3u {
