@@ -1269,7 +1269,7 @@
 	header.major {
 		position: relative;
 		text-align: center;
-		border-top: solid 1px #ccc;
+		border-top: solid 5px #ccc;
 		top: 1em;
 	}
 
@@ -1693,6 +1693,7 @@
 	#main-wrapper {
 		position: relative;
 		background: #f7f7f7 url("images/bg02.png");
+		margin-top: 10px;
 	}
 
 		#main-wrapper:before {
