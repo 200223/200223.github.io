@@ -1282,12 +1282,9 @@
 			padding: 0 1em 0 1em;
 		}
 
-/* Box */
+/* Box */{.box: #ffffff;
 
-	.box {
-		background: #ffffff;
-		
-	}
+         }
 
 		.box .image.featured {
 			position: relative;
